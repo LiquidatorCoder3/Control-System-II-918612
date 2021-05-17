@@ -1,0 +1,20 @@
+{
+  "tags": [],
+  "name": "Control System II",
+  "desc": "A control system is a system, which provides the desired response by controlling the output.",
+  "type": "project",
+  "tasks": [],
+  "notes": [],
+  "meetings": [],
+  "attendance": [],
+  "color": "FF9829",
+  "bundleId": "918612",
+  "owners": [
+    "codenameakshay"
+  ],
+  "collaborators": [],
+  "createdAt": "2021-05-17T23:12:17.583291",
+  "lastEditedAt": "2021-05-17T23:12:17.583298",
+  "public": true,
+  "repoName": "Control-System-II-918612"
+}
